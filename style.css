@@ -29,6 +29,7 @@ button {
   padding: 2rem 10px;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.7);
+  overflow-y: scroll;
 }
 
 .nextBtn {
